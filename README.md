@@ -36,12 +36,12 @@
 ## Portfólio
 
 <!-- Dark mode -->
-<a href="https://github.com/eduardobastier/eduardobastier.com#gh-dark-mode-only">
+<a href="https://github.com/eduardobastier/eduardobastier.github.io#gh-dark-mode-only">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=eduardobastier&repo=eduardobastier.com&theme=vue-dark" alt="Portfolio Repo">
 </a>
 
 <!-- Light mode -->
-<a href="https://github.com/eduardobastier/eduardobastier.com#gh-light-mode-only">
+<a href="https://github.com/eduardobastier/eduardobastier.github.io#gh-light-mode-only">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=eduardobastier&repo=eduardobastier.com&theme=vue" alt="Portfolio Repo">
 </a>
 
